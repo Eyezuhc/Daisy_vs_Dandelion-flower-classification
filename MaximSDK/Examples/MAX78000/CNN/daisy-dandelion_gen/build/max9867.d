@@ -1,0 +1,30 @@
+C:/MaximSDK/Examples/MAX78000/CNN/daisy-dandelion_gen/build/max9867.o: \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/MiscDrivers/CODEC/max9867.c \
+ c:\users\admin\desktop\isaac\coe187\maximsdk\tools\gnutools\10.3\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h \
+ c:\users\admin\desktop\isaac\coe187\maximsdk\tools\gnutools\10.3\arm-none-eabi\include\stdint.h \
+ c:\users\admin\desktop\isaac\coe187\maximsdk\tools\gnutools\10.3\arm-none-eabi\include\machine\_default_types.h \
+ c:\users\admin\desktop\isaac\coe187\maximsdk\tools\gnutools\10.3\arm-none-eabi\include\sys\features.h \
+ c:\users\admin\desktop\isaac\coe187\maximsdk\tools\gnutools\10.3\arm-none-eabi\include\_newlib_version.h \
+ c:\users\admin\desktop\isaac\coe187\maximsdk\tools\gnutools\10.3\arm-none-eabi\include\sys\_intsup.h \
+ c:\users\admin\desktop\isaac\coe187\maximsdk\tools\gnutools\10.3\arm-none-eabi\include\sys\_stdint.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/PeriphDrivers/Include/MAX78000/i2c.h \
+ c:\users\admin\desktop\isaac\coe187\maximsdk\tools\gnutools\10.3\lib\gcc\arm-none-eabi\10.3.1\include\stdbool.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/PeriphDrivers/Include/MAX78000/mxc_sys.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/PeriphDrivers/Include/MAX78000/mxc_device.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/CMSIS/Device/Maxim/MAX78000/Include/max78000.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/CMSIS/5.9.0/Core/Include/core_cm4.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/CMSIS/5.9.0/Core/Include/cmsis_version.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/CMSIS/5.9.0/Core/Include/cmsis_compiler.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/CMSIS/5.9.0/Core/Include/cmsis_gcc.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/CMSIS/5.9.0/Core/Include/mpu_armv7.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/CMSIS/Device/Maxim/MAX78000/Include/system_max78000.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/CMSIS/Device/Maxim/MAX78000/Include/gcr_regs.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/PeriphDrivers/Include/MAX78000/mxc_errors.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/PeriphDrivers/Include/MAX78000/mxc_pins.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/PeriphDrivers/Include/MAX78000/gpio.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/CMSIS/Device/Maxim/MAX78000/Include/gpio_regs.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/CMSIS/Device/Maxim/MAX78000/Include/lpgcr_regs.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/CMSIS/Device/Maxim/MAX78000/Include/gcr_regs.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/CMSIS/Device/Maxim/MAX78000/Include/i2c_regs.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/CMSIS/Device/Maxim/MAX78000/Include/dma_regs.h \
+ C:/Users/Admin/Desktop/Isaac/COE187/MAXIMsdk/Libraries/MiscDrivers/CODEC/max9867.h
